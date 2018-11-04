@@ -152,3 +152,7 @@ rules.ninja
 /*.tar.gz
 
 /.vagrant
+
+
+.idea
+cmake-build-debug/
